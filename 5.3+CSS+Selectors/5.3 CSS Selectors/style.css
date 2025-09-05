@@ -10,18 +10,25 @@ p {
 
 }
 
-
+ /*Element Selectors */
 li {
 font-size: 20px ;
 }
 
+.note{
+  font-size: 20px
+}
 
+ /*ID Selectors */
 #id-selector-demo {
 
   color: green;
 
 }
 
+
+
+ /*Attribute Selectors */
 li[value="4"] {
 
 
