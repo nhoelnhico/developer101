@@ -1,0 +1,24 @@
+.imgedit {
+    border: 5px solid white;
+    width: 100%;
+    }
+
+.poster{
+            width: 50%;
+            margin-left: 25%;
+            margin-top:100px;
+            font-family: "Libre Baskerville";
+            color:white;
+            background-color: black;
+            text-align: center;
+
+}
+
+body{
+    background-color: black;
+}
+
+
+h1 {
+    text-transform: uppercase;
+}
